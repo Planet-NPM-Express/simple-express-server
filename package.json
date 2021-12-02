@@ -1,5 +1,5 @@
 {
-  "name": "simple-express-server",
+  "name": "simple-express-server-1239",
   "version": "1.0.0",
   "description": "A very simple express server in a node package",
   "main": "index.js",
@@ -15,7 +15,9 @@
   },
   "keywords": [
     "express",
-    "server"
+    "server",
+    "npm",
+    "package"
   ],
   "author": "Charlie Fadness, Mark Thanadabouth, Heather Bisgaard",
   "license": "MIT",

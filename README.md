@@ -1,9 +1,11 @@
 # simple-express-server
 
+Starts a simple express server with proof of life.
+
 ## Install
 
 ```
-npm i simple-express-sever
+npm i simple-express-server-1239
 ```
 
 ## Usage
