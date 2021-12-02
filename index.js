@@ -1,11 +1,14 @@
-const express = require('express')
-const app = express()
-const port = 3000
+function startServer(port, lifeProof) {
+  const express = require('express');
+  const app = express()
+  
+  app.get('/', (req, res) => {
+    res.send(`${lifeProof}`);
+  });
+  
+  app.listen(port, () => {
+    console.log(`Simple Express Server 1239 listening at http://localhost:${port}`)
+  });
+}
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-})
-
-app.listen(port, () => {
-  console.log(`Example app listening at http://localhost:${port}`)
-})
+module.exports = startServer;

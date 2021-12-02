@@ -1,6 +1,6 @@
 {
-  "name": "simple-express-server",
-  "version": "1.0.0",
+  "name": "simple-express-server-1239",
+  "version": "2.2.0",
   "description": "A very simple express server in a node package",
   "main": "index.js",
   "directories": {
@@ -15,12 +15,18 @@
   },
   "keywords": [
     "express",
-    "server"
+    "server",
+    "npm",
+    "package"
   ],
   "author": "Charlie Fadness, Mark Thanadabouth, Heather Bisgaard",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Planet-NPM-Express/simple-express-server/issues"
   },
-  "homepage": "https://github.com/Planet-NPM-Express/simple-express-server#readme"
+  "homepage": "https://github.com/Planet-NPM-Express/simple-express-server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "simple-express-server-1239": "^2.1.0"
+  }
 }
