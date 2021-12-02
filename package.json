@@ -27,6 +27,6 @@
   "homepage": "https://github.com/Planet-NPM-Express/simple-express-server#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "simple-express-server-1239": "^2.0.0"
+    "simple-express-server-1239": "^2.1.0"
   }
 }
