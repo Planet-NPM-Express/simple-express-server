@@ -1,0 +1,26 @@
+{
+  "name": "simple-express-server",
+  "version": "1.0.0",
+  "description": "A very simple express server in a node package",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Planet-NPM-Express/simple-express-server.git"
+  },
+  "keywords": [
+    "express",
+    "server"
+  ],
+  "author": "Charlie Fadness, Mark Thanadabouth, Heather Bisgaard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Planet-NPM-Express/simple-express-server/issues"
+  },
+  "homepage": "https://github.com/Planet-NPM-Express/simple-express-server#readme"
+}
