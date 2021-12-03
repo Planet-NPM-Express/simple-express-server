@@ -1,6 +1,6 @@
 {
   "name": "simple-express-server-1239",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "A very simple express server in a node package",
   "main": "index.js",
   "directories": {
