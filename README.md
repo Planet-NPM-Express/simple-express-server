@@ -27,6 +27,7 @@ expressServer(3000, 'My Proof of Life')
 1.0.0 - First Publish  
 2.0.0 - Adding functionality  
 2.1.0 - Working Module Functionality  
+2.2.0 - Updated Readme  
 
 ## Contributors
 
