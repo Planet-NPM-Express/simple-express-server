@@ -6,7 +6,7 @@ Starts a simple express server with proof of life.
 
 1.0.0 - First Publish  
 2.0.0 - Adding functionality  
-2.1.0 - Working Module Functionality
+2.1.0 - Working Module Functionality  
 2.2.0 - Added README  
 2.3.0 - Added class  
 2.4.0 - Added post request route  
