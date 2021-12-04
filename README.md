@@ -54,7 +54,7 @@ GitHub
 
 ## Issues
 
-Ran into error while trying to publish. It said we did not have permmission. Googling said this error was due to acocunt verication emails. More googling revealed we had the same name for oour package as someone else from 6 years earlier.  
+Ran into error while trying to publish. It said we did not have permmission. Googling said this error was due to account verication emails. More googling revealed we had the same name for oour package as someone else from 6 years earlier.  
 
 Lesson learned from this is to think of a name and verify on nmpjs.com before trying to publish.
 
