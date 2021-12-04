@@ -52,13 +52,14 @@ expressServer(3000, 'My Proof of Life')
 
 ## Tools
 
-npm.js  
-express  
+NPM
+NodeJS  
+Express  
 GitHub  
 
 ## Issues
 
-Ran into error while trying to publish. It said we did not have permmission. Googling said this error was due to account verication emails. More googling revealed we had the same name for oour package as someone else from 6 years earlier.  
+Ran into an error while trying to publish - did not have permission to publish. Googling said this error was due to account verification emails. More googling revealed we had the same name for our package as someone else from 6 years earlier.  
 
 Lesson learned from this is to think of a name and verify on nmpjs.com before trying to publish.
 
