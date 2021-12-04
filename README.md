@@ -1,6 +1,16 @@
-# simple-express-server
+# simple-express-server-1239
 
 Starts a simple express server with proof of life.
+
+## Versions
+
+1.0.0 - First Publish  
+2.0.0 - Adding functionality  
+2.1.0 - Working Module Functionality  
+
+## Github Link
+
+[simple-express-server-1239](https://github.com/Planet-NPM-Express/simple-express-server)
 
 ## Install
 
@@ -22,12 +32,6 @@ let expressServer = require('simple-express-server-1239');
 expressServer(3000, 'My Proof of Life')
 ```
 
-## Versions
-
-1.0.0 - First Publish  
-2.0.0 - Adding functionality  
-2.1.0 - Working Module Functionality  
-
 ## Contributors
 
 - Charlie Fadness, Software Developer
@@ -41,5 +45,19 @@ expressServer(3000, 'My Proof of Life')
 [Publish issues](https://stackoverflow.com/questions/54950544/npm-publish-registry-403-forbidden-you-dont-have-permission-to-publish/55680824)  
 [Tiny NPM Package](https://www.freecodecamp.org/news/how-to-make-a-beautiful-tiny-npm-package-and-publish-it-2881d4307f78/)  
 [Express Starter](https://expressjs.com/en/starter/hello-world.html)
-[]()  
-[]()  
+
+## Tools
+
+npm.js  
+express  
+GitHub  
+
+## Issues
+
+Ran into error while trying to publish. It said we did not have permmission. Googling said this error was due to acocunt verication emails. More googling revealed we had the same name for oour package as someone else from 6 years earlier.  
+
+Lesson learned from this is to think of a name and verify on nmpjs.com before trying to publish.
+
+## Proof of Life
+
+![Proof of Life Test](./img/pol_test_120421.png)
